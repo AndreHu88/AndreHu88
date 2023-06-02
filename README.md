@@ -16,16 +16,10 @@
 ![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ##  Find me
-<p>
- <img src = "https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E7%82%B9%E6%88%91-brightgreen" >
-</p>
-
-<p align = "center" >
-
-<a href="https://www.sohod.cn/book/">
-	 <img src = "https://komarev.com/ghpvc/?username=AndreHu88" >
+<a href="https://www.sohod.cn/book/" target="_blank">
+   <img src = "https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E7%82%B9%E6%88%91-brightgreen" >
 </a>
-  
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=AndreHu88">
 
 
