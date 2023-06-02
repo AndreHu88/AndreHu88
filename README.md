@@ -10,4 +10,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://github-readme-stats.vercel.app/api?username=AndreHu88)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<p align = "center" >
+  <img src = "https://komarev.com/ghpvc/?username=AndreHu88" >
+</p>
+
